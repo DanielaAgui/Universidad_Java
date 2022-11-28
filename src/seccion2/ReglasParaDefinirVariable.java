@@ -1,7 +1,6 @@
 package seccion2;
 
 public class ReglasParaDefinirVariable {
-
     public static void main(String[] args) {
         //Primer letra de la primera palabra en minuscula
         //Si lleva varias palabras, la primer letra en mayuscula
