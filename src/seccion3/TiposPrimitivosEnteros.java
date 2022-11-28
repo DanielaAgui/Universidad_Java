@@ -14,7 +14,7 @@ public class TiposPrimitivosEnteros {
         System.out.println(Short.MIN_VALUE);
         System.out.println(Short.MAX_VALUE);
         System.out.println("---------------------");
-        
+
         int numeroInt = 10;
         System.out.println(Integer.MIN_VALUE);
         System.out.println(Integer.MAX_VALUE);
@@ -23,6 +23,5 @@ public class TiposPrimitivosEnteros {
         long numeroLong = 10;
         System.out.println(Long.MIN_VALUE);
         System.out.println(Long.MAX_VALUE);
-
     }
 }
