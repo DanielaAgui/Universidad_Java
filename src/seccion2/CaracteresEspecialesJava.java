@@ -1,6 +1,6 @@
 package seccion2;
 
-public class CaracteresEspeciales {
+public class CaracteresEspecialesJava {
     public static void main(String[] args) {
         String nombre = "Karla";
 
