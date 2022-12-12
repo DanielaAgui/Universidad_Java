@@ -11,5 +11,8 @@ public class PruebaAritmetica {
         //Para llamar un metodo con retorno, debemos crear una variable
         int resultado = aritmetica.sumarConRetorno();
         System.out.println(resultado);
+
+        resultado = aritmetica.sumarConArgumentos(4, 5);
+        System.out.println(resultado);
     }
 }
