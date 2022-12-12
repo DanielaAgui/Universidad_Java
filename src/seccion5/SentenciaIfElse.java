@@ -1,6 +1,6 @@
 package seccion5;
 
-public class IfElse {
+public class SentenciaIfElse {
     public static void main(String[] args) {
         //Verifica una expresion, si es verdadera ejecuta una sentencia, de lo contario ejecuta otra
         boolean condicion = true;
